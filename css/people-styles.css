@@ -142,3 +142,7 @@ h6 {
 .html-content {
   zoom: 1;
 }
+.hangingindent {
+  padding-left: 22px ;
+  text-indent: -22px ;
+} 
