@@ -187,6 +187,7 @@ h2::after { content: " "; display: block; width: 35px; margin: 25px auto; }
 .wrapper { height: 650px; }
 .nopadding { padding: 0; }
 .inner { padding-top: 170px; }
+.hangingindent { padding-left: 22px ; text-indent: -22px ; } 
 /* ==========================================================================
 Navigation
 ========================================================================== */
