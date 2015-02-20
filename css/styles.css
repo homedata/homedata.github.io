@@ -251,26 +251,6 @@ Research assistant
 .iphone { width: 60%; background: #f3f5f8; float: left; height: 100%; /* box-shadow: inset -15px -11px 40px -6px rgba(0, 0, 0, 0.1); -moz-box-shadow: inset -15px -11px 40px -6px rgba(0, 0, 0, 0.1); -webkit-box-shadow: inset -15px -11px 40px -6px rgba(0, 0, 0, 0.1); z-index: 1; */ }
 /* .fluid-white { width: 50%; background: #fff; float: right; height: 100%; z-index: 2; } */
 .responsive-services { position: relative; background: #f3f5f8; }
-.iphone {
- /*CSS transitions*/
- -o-transition-property: none !important;
- -moz-transition-property: none !important;
- -ms-transition-property: none !important;
- -webkit-transition-property: none !important;
- transition-property: none !important;
- /*CSS transforms*/
- -o-transform: none !important;
- -moz-transform: none !important;
- -ms-transform: none !important;
- -webkit-transform: none !important;
- transform: none !important;
- /*CSS animations*/
- -webkit-animation: none !important;
- -moz-animation: none !important;
- -o-animation: none !important;
- -ms-animation: none !important;
- animation: none !important;
-}
 /* ==========================================================================
 Participant
 ========================================================================== */
