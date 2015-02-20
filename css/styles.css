@@ -251,7 +251,7 @@ Research assistant
 .iphone { width: 60%; background: #f3f5f8; float: left; height: 100%; /* box-shadow: inset -15px -11px 40px -6px rgba(0, 0, 0, 0.1); -moz-box-shadow: inset -15px -11px 40px -6px rgba(0, 0, 0, 0.1); -webkit-box-shadow: inset -15px -11px 40px -6px rgba(0, 0, 0, 0.1); z-index: 1; */ }
 /* .fluid-white { width: 50%; background: #fff; float: right; height: 100%; z-index: 2; } */
 .responsive-services { position: relative; background: #f3f5f8; }
-.assistant {
+wp3.assistant {
  /*CSS transitions*/
  -o-transition-property: none !important;
  -moz-transition-property: none !important;
