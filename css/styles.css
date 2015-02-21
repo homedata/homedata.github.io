@@ -230,7 +230,7 @@ hr.hr1 { width: 200px; border-top: 1px solid #000; border-bottom: 1px solid #000
 /* ==========================================================================
 Research Questions
 ========================================================================== */
-.question p { text-align: left; font-size: 14.5px; position: fixed; transform: translateZ(0); -moz-transform: translatez(0); -ms-transform: translatez(0); -o-transform: translatez(0); -webkit-transform: translateZ(0); -webkit-font-smoothing: antialiased; }
+.question p { text-align: left; font-size: 14.5px; }
 .question { padding: 65px; background: #fff; }
 .question p { margin: 50px 0 0; }
 .question-services { position: relative; background: #fff; }
