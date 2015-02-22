@@ -103,10 +103,9 @@ h6 {
   margin: 6px 0 4px;
 }
 .article p {
-  /* margin-left: -40px; */
+
 }
 .title-p {
-  /* margin-left: 150px; */
   padding-left: 150px;
 }
 @media only screen and (min-width: 700px) {
@@ -116,7 +115,6 @@ h6 {
   }
 }
 .article-title {
-  /* margin-left: -150px; */
   padding-left: 150px;
   font-size: 1.1em;
   line-height: 1.2;
