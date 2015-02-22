@@ -125,7 +125,7 @@ h6 {
   margin-bottom: 10px;
   margin-top: 0px;
   margin-left: 110px; /* image left margin */
-  padding: 50px;
+  margin-right: 50px;
 }
 .article-img img {
   width: 100%;
