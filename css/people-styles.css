@@ -124,7 +124,7 @@ h6 {
   width: 100%;
   margin-bottom: 10px;
   margin-top: 0px;
-  margin-left: 110px; /* image left margin */
+  margin-left: 0px; /* image left margin */
   margin-right: 50px;
 }
 .article-img img {
