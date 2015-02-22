@@ -78,7 +78,7 @@ h1 {
 }
 .content > h1,
 .col-main > h1 {
-  margin: 20px 0;
+  margin: 0px 0;
 }
 h2 {
   font-size: 2em;
