@@ -239,6 +239,7 @@ Research Questions
 h1.question-title { text-align: center; font-size: 25px; text-transform: uppercase; color: #353535; letter-spacing: 1px; /* background: url('../img/h1-bg.png') no-repeat center bottom; padding-bottom: 30px; */ }
 hr.hr2 { width: 200px; border-top: 1px solid #000; border-bottom: 1px solid #000; color: #000; height: 4px; }
 .question { margin-right:0px; }
+.servicesSlider { max-width: 1000px; }
 /* ==========================================================================
 Results software statistical guides
 ========================================================================== */
