@@ -231,9 +231,9 @@ hr.hr1 { width: 200px; border-top: 1px solid #000; border-bottom: 1px solid #000
 Research Questions
 ========================================================================== */
 .question p { text-align: left; font-size: 14.5px; }
-.question { margin: 65px; padding: 65px; white-space: nowrap; background: #fff; position: relative; display: inline-block; overflow: hidden; }
+.question { margin: 65px; padding: 65px; background: #fff; position: relative; display: inline-block; overflow: hidden; }
 .question p { margin: 50px 0 0; }
-.question-services { position: relative; background: #fff; } /* position: relative; */
+.question-services { white-space: nowrap; position: relative; background: #fff; } /* position: relative; */
 .row { position: relative; overflow: hidden; }
 .wp7 { overflow: hidden; }
 .col-md-5.3 { overflow: hidden; }
