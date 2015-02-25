@@ -233,7 +233,7 @@ Research Questions
 .question p { text-align: left; font-size: 14.5px; }
 .question { padding: 65px; background: #fff; overflow: hidden; }
 .question p { margin: 50px 0 0; }
-.question-services { background: #fff; } /* position: relative; */
+.question-services { position: relative; background: #fff; } /* position: relative; */
 .row { position: relative; overflow: hidden; }
 .wp7 { position: relative; overflow: hidden; }
 .col-md-5.3 { position: relative; overflow: hidden; }
