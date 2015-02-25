@@ -233,8 +233,8 @@ Research Questions
 .question p { text-align: left; font-size: 14.5px; }
 .question { margin: 65px; padding: 65px; background: #fff; position: relative; display: inline-block; overflow: hidden; }
 .question p { margin: 50px 0 0; }
-.question-services { position: relative; background: #fff; } /* position: relative; */
-.row { white-space: nowrap; position: relative; overflow: hidden; }
+.question-services { white-space: nowrap; position: relative; background: #fff; } /* position: relative; */
+.row { position: relative; overflow: hidden; }
 .wp7 { overflow: hidden; }
 .col-md-5.3 { overflow: hidden; }
 .question-img { margin-top: 90px; margin-left: 0px; background: #fff; float: left; height: 100%; /* box-shadow: inset -15px -11px 40px -6px rgba(0, 0, 0, 0.1); -moz-box-shadow: inset -15px -11px 40px -6px rgba(0, 0, 0, 0.1); -webkit-box-shadow: inset -15px -11px 40px -6px rgba(0, 0, 0, 0.1); z-index: 1; */ }
