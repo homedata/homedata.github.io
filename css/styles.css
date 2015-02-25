@@ -234,19 +234,6 @@ Research Questions
 .question-img { background: #fff; }
 h1.question-title { text-align: center; font-size: 25px; text-transform: uppercase; color: #353535; letter-spacing: 1px; }
 hr.hr2 { width: 200px; border-top: 1px solid #000; border-bottom: 1px solid #000; color: #000; height: 4px; }
-/*
-.question p { text-align: left; font-size: 14.5px; }
-.question { margin: 65px; padding: 65px; background: #fff; position: relative; overflow: hidden; }
-.question p { margin: 50px 0 0; }
-.question-services { position: relative; background: #fff; }
-.row { position: relative; overflow: hidden; }
-.wp7 { overflow: hidden; }
-.col-md-5.3 { overflow: hidden; }
-.question-img { margin-top: 90px; margin-left: 0px; background: #fff; float: left; height: 100%;  }
-h1.question-title { text-align: center; font-size: 25px; text-transform: uppercase; color: #353535; letter-spacing: 1px; }
-hr.hr2 { width: 200px; border-top: 1px solid #000; border-bottom: 1px solid #000; color: #000; height: 4px; }
-.question { margin-left: -75px; margin-right:0px; }
-*/
 /* ==========================================================================
 Results software statistical guides
 ========================================================================== */
@@ -263,13 +250,6 @@ Research assistant
 /* ==========================================================================
 Participant
 ========================================================================== */
-/*
-.sgm-img { width: 60%; height: 100%; }
-.participant { padding-top: -25px; width: 60%; height: 100%; }
-.responsive-services { position: relative; background: #f3f5f8; }
-.participant-title { width: 60%; height: 100%; }
-*/
-
 .participant { margin: 70px 0 0; }
 .participant-img { background: #fff; }
 h1.participant-title { text-align: center; font-size: 25px; text-transform: uppercase; color: #353535; letter-spacing: 1px; }
