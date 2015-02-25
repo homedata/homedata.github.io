@@ -231,11 +231,11 @@ hr.hr1 { width: 200px; border-top: 1px solid #000; border-bottom: 1px solid #000
 Research Questions
 ========================================================================== */
 .question p { text-align: left; font-size: 14.5px; }
-.question { margin: 65px; padding: 65px; background: #fff; position: relative; overflow: auto; }
+.question { margin: 65px; padding: 65px; background: #fff; position: relative; overflow: hidden; }
 .question p { margin: 50px 0 0; }
 .question-services { position: relative; background: #fff; } /* position: relative; */
-.row { position: relative; overflow: auto; }
-.wp7 { max-width: 1000px; overflow: auto; }
+.row { position: relative; overflow: hidden; }
+.wp7 { overflow: hidden; }
 .col-md-5.3 { overflow: hidden; }
 .question-img { margin-top: 90px; margin-left: 0px; background: #fff; float: left; height: 100%; /* box-shadow: inset -15px -11px 40px -6px rgba(0, 0, 0, 0.1); -moz-box-shadow: inset -15px -11px 40px -6px rgba(0, 0, 0, 0.1); -webkit-box-shadow: inset -15px -11px 40px -6px rgba(0, 0, 0, 0.1); z-index: 1; */ }
 h1.question-title { text-align: center; font-size: 25px; text-transform: uppercase; color: #353535; letter-spacing: 1px; /* background: url('../img/h1-bg.png') no-repeat center bottom; padding-bottom: 30px; */ }
@@ -272,7 +272,7 @@ Associated Projects
 /* ==========================================================================
 Project components
 ========================================================================== */
-.components { background-color: #f3f5f8; padding-bottom: 100px; } 
+.portfolio { background-color: #f3f5f8; padding-bottom: 100px; } 
 .effects { padding-left: 0px; }
 .effects .img { position: relative; margin-bottom: 50px; position: relative; z-index: 1; overflow: hidden; }
 .effects .img:nth-child(n) { margin-right: 5px; }
