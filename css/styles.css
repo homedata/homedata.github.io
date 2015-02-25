@@ -232,12 +232,10 @@ Research Questions
 ========================================================================== */
 .question p { text-align: left; font-size: 14.5px; }
 .question { background: #fff; overflow: auto; }
-/*.question p { margin: 50px 0 0; } */
 .question-services { position: relative; background: #fff; }
 .question-img { background: #fff; float: left; height: auto; /* box-shadow: inset -15px -11px 40px -6px rgba(0, 0, 0, 0.1); -moz-box-shadow: inset -15px -11px 40px -6px rgba(0, 0, 0, 0.1); -webkit-box-shadow: inset -15px -11px 40px -6px rgba(0, 0, 0, 0.1); z-index: 1; */ }
 h1.question-title { text-align: center; font-size: 25px; text-transform: uppercase; color: #353535; letter-spacing: 1px; /* background: url('../img/h1-bg.png') no-repeat center bottom; padding-bottom: 30px; */ }
-hr.hr2 { width: 200px; border-top: 1px solid #000; border-bottom: 1px solid #000; color: #000; height: 4px; }
-.question { margin-left: -75px; margin-right:0px; }
+hr.hr2 { border-top: 1px solid #000; border-bottom: 1px solid #000; color: #000; height: 4px; }
 /* ==========================================================================
 Results software statistical guides
 ========================================================================== */
