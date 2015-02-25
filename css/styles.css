@@ -278,7 +278,7 @@ Associated Projects
 /* ==========================================================================
 Project components
 ========================================================================== */
-.components { background-color: #f3f5f8; padding-bottom: 100px; } 
+.portfolio { background-color: #f3f5f8; padding-bottom: 100px; } 
 .effects { padding-left: 0px; }
 .effects .img { position: relative; margin-bottom: 50px; position: relative; z-index: 1; overflow: hidden; }
 .effects .img:nth-child(n) { margin-right: 5px; }
