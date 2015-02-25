@@ -225,6 +225,9 @@ Overview
 .intro p { font-size: 14.5px; }
 .intro { padding: 65px; background: #f3f5f8; overflow: hidden;}
 .intro p { margin: 50px 0 0; }
+.row { overflow: hidden; }
+.wp7 { overflow: hidden; }
+.col-md-5.3 { overflow: hidden; }
 h1.arrow { font-size: 25px; text-transform: uppercase; color: #353535; letter-spacing: 1px; /* background: url('../img/h1-bg.png') no-repeat center bottom; padding-bottom: 30px; */ }
 hr.hr1 { width: 200px; border-top: 1px solid #000; border-bottom: 1px solid #000; color: #000; height: 4px; }
 /* ==========================================================================
