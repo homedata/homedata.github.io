@@ -247,6 +247,7 @@ Results software statistical guides
 Research assistant
 ========================================================================== */
 .assistant { background-color: #f3f5f8; margin: 0 auto; }
+container.assistant { margin: 0 auto; height: 100%; }
 .assistant-img { margin: 0 auto; width: 100%; }
 .assistant-wrapper { margin-left: auto; margin-right: auto; width: 100%; height: 100%; }
 .assistant col-md-10 { margin: 0 auto; }
