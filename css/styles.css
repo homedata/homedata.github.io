@@ -351,7 +351,7 @@ Waypoints
 /* ==========================================================================
   Next Section Button
 ========================================================================== */
-.containerButton { margin-top: 100%; padding-bottom: 250px; width: 50px; height: 50px; border-radius: 50%; -moz-border-radius: 50%; -webkit-border-radius: 50%; 
+.containerButton { margin-top: 100%; padding-bottom: -25px; width: 50px; height: 50px; border-radius: 50%; -moz-border-radius: 50%; -webkit-border-radius: 50%; 
 -o-border-radius: 50%; background: rgba(39,88,219, 0.5); display: block; margin: 0 auto; color: #fff; font-size: 18px; line-height: 46px; 
 text-align: center; position:relative; }
 .containerButton {:hover, up-btn:focus { color: #fff; background: rgba(39,88,219, 1); }
