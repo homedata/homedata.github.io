@@ -244,10 +244,7 @@ Results software statistical guides
 /* ==========================================================================
 Research assistant
 ========================================================================== */
-/*.iphone { width: 60%; background: #f3f5f8; float: left; height: 100%;  }
-.responsive-services { position: relative; background: #f3f5f8; } */
-
-.assistant { margin: 70px 0 0; }
+.assistant { background-color: #f3f5f8; margin: 70px 0 0; }
 .assistant-img { background: #fff; }
 h1.assistant-title { text-align: center; font-size: 25px; text-transform: uppercase; color: #353535; letter-spacing: 1px; }
 hr.hr2 { width: 200px; border-top: 1px solid #000; border-bottom: 1px solid #000; color: #000; height: 4px; }
