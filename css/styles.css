@@ -255,7 +255,7 @@ hr.hr2 { width: 200px; border-top: 1px solid #000; border-bottom: 1px solid #000
 /* ==========================================================================
 Participant
 ========================================================================== */
-.participant { background-color: #fff; }
+.participant { background-color: #f3f5f8; }
 .participant-img { width:50%; margin:auto; display:block; vertical-align:middle; }
 .participant-wrapper { width: 100%; height: 100%; }
 .participant col-md-12 { width: 100%; height: 100%; }
