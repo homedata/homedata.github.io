@@ -230,7 +230,7 @@ hr.hr1 { width: 200px; border-top: 1px solid #000; border-bottom: 1px solid #000
 /* ==========================================================================
 Research Questions
 ========================================================================== */
-.question { background-color: #fff; }
+.question { background-color: #fff; margin: 0 auto; }
 .question-img { margin: 0 auto; width: 100%; }
 .question-wrapper { margin-left: auto; margin-right: auto; width: 100%; height: 100%; }
 .question col-md-10 { margin: 0 auto; }
@@ -246,7 +246,7 @@ Results software statistical guides
 /* ==========================================================================
 Research assistant
 ========================================================================== */
-.assistant { background-color: #f3f5f8; }
+.assistant { background-color: #f3f5f8; margin: 0 auto; }
 .assistant-img { margin: 0 auto; width: 100%; }
 .assistant-wrapper { margin-left: auto; margin-right: auto; width: 100%; height: 100%; }
 .assistant col-md-10 { margin: 0 auto; }
