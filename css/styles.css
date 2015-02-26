@@ -246,6 +246,7 @@ Research assistant
 ========================================================================== */
 .assistant { background-color: #f3f5f8; }
 .assistant-img { background: #fff; }
+.assistant-wrapper { width: 100%; }
 h1.assistant-title { text-align: center; font-size: 25px; text-transform: uppercase; color: #353535; letter-spacing: 1px; }
 hr.hr2 { width: 200px; border-top: 1px solid #000; border-bottom: 1px solid #000; color: #000; height: 4px; }
 /* ==========================================================================
