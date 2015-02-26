@@ -362,7 +362,6 @@ margin-left: auto;
 margin-right: auto; 
 */
 position:relative; 
-   left:50%;
-   margin-top:50%;
+
    }
 .containerButton {:hover, up-btn:focus { color: #fff; background: rgba(39,88,219, 1); }
