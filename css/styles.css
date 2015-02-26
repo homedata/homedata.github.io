@@ -297,7 +297,6 @@ Associated Projects
 ========================================================================== */
 .swag { height: 100%; vertical-align: middle; text-align: center; }
 .col-md-10 { height: 100%; vertical-align: middle; text-align: center; position: relative; top: 50%; transform: translateY(-50%); }
-.ignite-cta { background-color: #242830; padding: 70px 0; vertical-align: middle; text-align: center; }
 .ignite-btn { height: 25% ; width: 33%; vertical-align: middle; text-align: center; display: inline-block; padding: 25px 25px; color: #fff; border: solid 1px #fff; text-transform: uppercase; font-size: 110%; letter-spacing: 1px; }
 .ignite-btn:hover, .ignite-btn:focus { text-align: center; color: #2758db; border: solid 1px #2758db; }
 /* ==========================================================================
