@@ -265,11 +265,22 @@ hr.hr2 { width: 200px; border-top: 1px solid #000; border-bottom: 1px solid #000
 /* ==========================================================================
 Associated Projects
 ========================================================================== */
-.swag { background: url('../img/plants-bg.jpg') no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; background-attachment: fixed; padding: 0px 0; }
+.swag { background: url('../img/plants-bg.jpg') no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; 
+		-o-background-size: cover; background-size: cover; background-attachment: fixed; padding: 0px 0; display: inline-block; height: 100%; 
+		width: 100%; min-height: 500px; max-height: 500px; vertical-align: middle; text-align: center; 
+	  }
 .swag h1 { color: #fff; font-size: 40px; text-transform: uppercase; letter-spacing: 5px; }
 .swag h1 span { display: block; font-size: 25px; margin-top: 20px; }
-.down-arrow-btn { width: 40px; height: 40px; border-radius: 50%; -moz-border-radius: 50%; -webkit-border-radius: 50%; -o-border-radius: 50%; background: rgba(39,88,219, 0.8); display: inline-block; margin: 10px auto 20px; color: #fff; font-size: 16px; line-height: 40px; text-align: center; }
+.down-arrow-btn { width: 40px; height: 40px; border-radius: 50%; -moz-border-radius: 50%; -webkit-border-radius: 50%; -o-border-radius: 50%; 
+				background: rgba(39,88,219, 0.8); display: inline-block; margin: 10px auto 20px; color: #fff; font-size: 16px; line-height: 40px; 
+				text-align: center; 
+				}
 .down-arrow-btn:hover, .down-arrow-btn:focus { color: #fff; background: rgba(39,88,219, 1); }
+col-md-10.swag { display: inline-block; margin: 0 auto; vertical-align: middle; }
+.ignite-btn { height: 25% ; width: 33%; vertical-align: middle; text-align: center; display: inline-block; padding: 25px 25px; color: #fff; 
+			  border: solid 1px #fff; text-transform: uppercase; font-size: 110%; letter-spacing: 1px; 
+			}
+.ignite-btn:hover, .ignite-btn:focus { text-align: center; color: #2758db; border: solid 1px #2758db; }
 /* ==========================================================================
 Project components
 ========================================================================== */
@@ -300,13 +311,6 @@ Subscribe
 .subscribe input[type=text] { background-color: rgba(255, 255, 255, 0.1); border: solid 1px #fff; padding: 20px; width: 30%; color: #fff; }
 .subscribe input[type=submit] { background: rgba(39,88,219, 0.5); border: solid 1px rgba(39,88,219, 0.5); padding: 20px; color: #fff; text-transform: uppercase; letter-spacing: 1px; transition: all 0.5s ease; -moz-transition: all 0.5s ease; -webkit-transition: all 0.5s ease; -o-transition: all 0.5s ease; }
 .subscribe input[type=submit]:hover { background: rgba(39,88,219, 1); border: solid 1px rgba(39,88,219, 1); color: #fff; }
-/* ==========================================================================
-Associated Projects
-========================================================================== */
-.swag { display: inline-block; height: 100%; width: 100%; max-height: 500px; vertical-align: middle; text-align: center; }
-col-md-10.swag { display: inline-block; margin: 0 auto; vertical-align: middle; }
-.ignite-btn { height: 25% ; width: 33%; vertical-align: middle; text-align: center; display: inline-block; padding: 25px 25px; color: #fff; border: solid 1px #fff; text-transform: uppercase; font-size: 110%; letter-spacing: 1px; }
-.ignite-btn:hover, .ignite-btn:focus { text-align: center; color: #2758db; border: solid 1px #2758db; }
 /* ==========================================================================
 Team
 ========================================================================== */
