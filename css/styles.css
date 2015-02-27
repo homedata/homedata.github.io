@@ -188,18 +188,6 @@ h2::after { content: " "; display: block; width: 35px; margin: 25px auto; }
 .nopadding { padding: 0; }
 .inner { padding-top: 170px; }
 .hangingindent { padding-left: 22px ; text-indent: -22px ; }
-li {
-  padding-left: 1.2em;
-  list-style: none;
-}
-li:before {
-  color: #bbb;
-  content: "\f15c";
-  font-family: FontAwesome;
-  display: inline-block;
-  margin-left: -1.2em; /*same as padding-left set on li*/
-  width: 1.2em; /*same as padding-left set on li*/
-}
 /* ==========================================================================
 Navigation
 ========================================================================== */
