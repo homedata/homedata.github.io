@@ -265,7 +265,7 @@ hr.hr2 { width: 200px; border-top: 1px solid #000; border-bottom: 1px solid #000
 /* ==========================================================================
 Associated Projects
 ========================================================================== */
-.swag { max-height: 50%; min-height: 50%; background: url('../img/plants-bg.jpg') no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; 
+.swag { max-height: 500px; min-height: 500px; background: url('../img/plants-bg.jpg') no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; 
 -o-background-size: cover; background-size: cover; background-attachment: fixed; }
 .swag h1 { color: #fff; font-size: 40px; text-transform: uppercase; letter-spacing: 5px; }
 .swag h1 span { display: block; font-size: 25px; margin-top: 20px; }
