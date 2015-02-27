@@ -267,7 +267,7 @@ Associated Projects
 ========================================================================== */
 .swag { background: url('../img/plants-bg.jpg') no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; 
 		-o-background-size: cover; background-size: cover; background-attachment: fixed; padding: 0px 0; display: inline-block; height: 100%; 
-		width: 100%; min-height: 500px; max-height: 500px; vertical-align: middle; text-align: center; 
+		width: 100%; min-height: 500px; max-height: 500px; display: flex; align-items: center; text-align: center; 
 	  }
 .swag h1 { color: #fff; font-size: 40px; text-transform: uppercase; letter-spacing: 5px; }
 .swag h1 span { display: block; font-size: 25px; margin-top: 20px; }
