@@ -266,17 +266,10 @@ hr.hr2 { width: 200px; border-top: 1px solid #000; border-bottom: 1px solid #000
 Associated Projects
 ========================================================================== */
 .swag { background: url('../img/plants-bg.jpg') no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; 
-		-o-background-size: cover; background-size: cover; background-attachment: fixed; padding: 0px 0; height: 100%; 
-		width: 100%; min-height: 500px; max-height: 500px; display: flex; align-items: center; text-align: center; 
-	  }
+		-o-background-size: cover; background-size: cover; background-attachment: fixed; margin: 0 auto;}
 .swag h1 { color: #fff; font-size: 40px; text-transform: uppercase; letter-spacing: 5px; }
 .swag h1 span { display: block; font-size: 25px; margin-top: 20px; }
-.down-arrow-btn { width: 40px; height: 40px; border-radius: 50%; -moz-border-radius: 50%; -webkit-border-radius: 50%; -o-border-radius: 50%; 
-				background: rgba(39,88,219, 0.8); display: inline-block; margin: 10px auto 20px; color: #fff; font-size: 16px; line-height: 40px; 
-				text-align: center; 
-				}
-.down-arrow-btn:hover, .down-arrow-btn:focus { color: #fff; background: rgba(39,88,219, 1); }
-col-md-10.swag { display: inline-block; margin: 0 auto; }
+col-md-10.swag { display: inline-block; margin: 50px 0 0; }
 .ignite-btn { height: 25% ; width: 33%; vertical-align: middle; text-align: center; display: inline-block; padding: 25px 25px; color: #fff; 
 			  border: solid 1px #fff; text-transform: uppercase; font-size: 110%; letter-spacing: 1px; 
 			}
