@@ -137,6 +137,12 @@ h6 {
     margin-bottom: 0;
     float: left;
   }
+  
+  .article-img-ras {
+	width: 100%; /* Image size*/
+    margin-bottom: 0;
+    float: left;
+  }
   .article-has-img {
     margin-left: 100px; /* text box left align */
   }
