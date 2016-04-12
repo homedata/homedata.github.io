@@ -223,6 +223,7 @@ Home
 /* ==========================================================================
 Overview
 ========================================================================== */
+@media (max-width: 768px) { .intro { margin-top: -240px; } }
 .intro p { font-size: 14.5px; }
 .intro { padding: 65px; background-color: white; }
 .intro p { margin: 50px 0 0; }
